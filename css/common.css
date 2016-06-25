@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* domfam Team by willy 2011_08_17 ver2.0 */
+
+
+/*Reset*/
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, 
+address, big, cite, code, del, dfn, em, font, img, ins,
+q, s, samp, small, strike, strong, sub, sup, tt, var, b,
+u, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td { margin: 0; padding: 0; border: none 0; }
+html, body { width:100%; height:100%; }
+body { background-color:#fff;}
+body, input, button, textarea { font-size:12px; line-height:1.5em; font-family: Helvetica, AppleGothic, Sans-serif; color:#444; }
+h1, h2, h3, h4, h5, h6 { font-size:12px; text-align:left; }
+img, fieldset, iframe { border:0 none; }
+table, div { border-collapse: collapse;}
+select, textarea { border: 1px solid #B7B6B6; background: #FFFFFF; color: #000000; font-size: 14px; vertical-align: middle; }
+textarea { overflow:auto; }
+select, input, img, li { vertical-align: middle; text-align:left; }
+address, caption, cite, code, dfn, em, strong, th, var { font-style : normal; font-weight : normal; }
+ul, li, ol { list-style-type: none;}
+legend,  caption { display: none; }
+hr { border-collapse:collapse; display:none; }
+
+/* a:link, a:visited { text-decoration:none; color: #000000; } */
+a:link, a:visited { text-decoration:none; color: #000000; }
+a:hover { text-decoration:underline; cursor:pointer; color:#000000;}
+/*hidden*/
+#accessibility,.skipnavi { position: absolute ; width: 0px; height: 0px; font-size: 0px; line-height: 0px; overflow: hidden; visibility: hidden; text-indent: -1000px; }

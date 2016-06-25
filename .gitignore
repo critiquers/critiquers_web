@@ -1,0 +1,6 @@
+include_connect.php
+sftp-config.json
+src
+mecab
+mecab2
+mecab-ko-dic-2.0.0-20150517
